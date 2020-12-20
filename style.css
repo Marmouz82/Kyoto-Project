@@ -520,7 +520,7 @@ nav {
 .parallax {
     width: 100%;
     height: 300px;
-    background: url(/ressources/parallax-large-flou.jpg);
+    background: url('/ressources/parallax-large-flou.jpg');
     background-position: center;
     background-attachment: fixed;
     display: flex;
